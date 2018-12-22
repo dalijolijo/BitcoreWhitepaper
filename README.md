@@ -1,0 +1,2 @@
+# BitcoreWhitepaper
+Bitcore (BTX) Whitepaper
