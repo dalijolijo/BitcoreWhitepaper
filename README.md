@@ -1,2 +1,3 @@
 # BitcoreWhitepaper
-Bitcore (BTX) Whitepaper
+
+![Logo](BitcoreWhitepaperImg01.png)
