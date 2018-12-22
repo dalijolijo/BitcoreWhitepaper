@@ -2,8 +2,8 @@
 
 ## Lösung und technische Spezifikation
 
-Da Bitcore wichtige Innovationen implementiert hat, ist Bitcore sowohl im persönlichen als auch im geschäftlichen Kontext besonders gut als täglichen Zahlungsmittel geeignetet. 
-Jede dieser Innovationen und ihre jeweilige Rolle in der gesteigerten Effizienz und Benutzbarkeit von Bitcore, werden in diesem Abschnitt detailliert beschrieben.
+Da Bitcore wichtige Innovationen implementiert hat, ist Bitcore sowohl im persönlichen als auch im geschäftlichen Kontext besonders gut als tägliches Zahlungsmittel geeignet. 
+Jede dieser Innovationen und ihre jeweilige Rolle in der gesteigerten Effizienz und Benutzbarkeit von Bitcore werden in diesem Abschnitt detailliert beschrieben.
 
 Für einen schnellen Überblick sind die wichtigsten technischen Spezifikationen von Bitcore hier zusammengefasst:
 
@@ -23,11 +23,11 @@ Für einen schnellen Überblick sind die wichtigsten technischen Spezifikationen
 
 > "[Bitcore] ist innovativ, indem es die Dinge reinigt" -- Jimmy Song (vii), Bitcoin Hauptentwickler
 
-![Figure 1: Bitcoin, Bitcoin Cash, Bitcoin Gold and Bitcore - comparison chart.](images/BitcoreWhitepaperImg03.png)
+![Abbildung 1: Bitcoin, Bitcoin Cash, Bitcoin Gold und Bitcore - Vergleichstabelle.](images/BitcoreWhitepaperImg03.png)
 
 ## 3.1 Coin Verteilung
 
-![Figure 2: Block reward halving over time for Bitcore](images/BitcoreWhitepaperImg04.png)
+![Abbildung 2: Die Block Mining Belohnungsentwicklung von Bitcore](images/BitcoreWhitepaperImg04.png)
 
 ## 3.2 Blockchain und Algorithmen
 
@@ -35,7 +35,7 @@ Für einen schnellen Überblick sind die wichtigsten technischen Spezifikationen
 ### 3.2.1 Reibungslosen Schwierigkeitsanpassung durch diff64_15 Algorithmus
 
 
-![Figure 3: Difficulty retargeting in Bitcore (sample data from May 2018).](images/BitcoreWhitepaperImg05.png)
+![Abbildung 3: Die Mining Schwierigkeitsanpassung bei Bitcore (Beispieldaten vom Mai 2018).](images/BitcoreWhitepaperImg05.png)
 
 ### 3.2.2 Kürzere Blockzeiten
 
@@ -63,7 +63,7 @@ SegWit bietet mehrere unmittelbare Vorteile:
 
 ### 3.2.6 Geringe Gebühren
 
-![Figure 4: Comparison chart, Bitcore against other cryptocurrencies.](images/BitcoreWhitepaperImg04.png)
+![Abbildung 4: Vergleichsdiagramm, Bitcore im Vergleich zu anderen Kryptowährungen.](images/BitcoreWhitepaperImg04.png)
 
 ---
 
