@@ -11,10 +11,11 @@ Am wichtigsten ist, dass Bitcore eine echte Dezentralisierung und Benutzerbefäh
 
 * Der ASIC-resistente Mining-Algorithmus von Bitcore stellt die Beteiligung der Community wieder her und wirkt Zentralisierungseffekten im Mining entgegen.
 
-* Die Anwendung von Bloom-Filtern durch Bitcore (i) reduziert den Speicherbedarf für den Betrieb eines vollständigen Blockchain-Nodes erheblich und ermöglicht es mehr einzelnen Benutzern, über SPV/light Wallets vollberechtigte Bitcore-Teilnehmer zu werden.
-Der neuartige Airdrop-Prozess von Bitcore führte zu einer deutlich gleichmäßigeren Verteilung der Coins und förderte die Verwendung von Bitcore als Zahlungsmittel. Die Entscheidung der Bitcore-Community, auf ein Initial Coin Offering (ICO) zu verzichten, hat die Spekulanten in Schach gehalten.
+* Bitcore´s Verwendung von Bloom Filter (i) reduziert den benötigten Speicher beim Betreiben eines vollwertigen Blockchain Knotens (Full-Node) signifikant, so dass mehr Benutzer mithilfe eines SPV/Light-Wallets am Bitcore Netzwerk partipizieren können.
 
-* Bitcore ist schneller als Bitcoin, schneller als sogar Paypal, so dass es dank der rechtzeitigen Implementierung von SegWit und anderen Designentscheidungen zu einer echten alltäglichen Zahlungsoption wird. Im Lightning Network wird eine theoretisch unbegrenzte Anzahl von Offline-Transaktionen unterstützt. Die niedrigen Gebühren von Bitcore von rund 0,003 USD pro Transaktion machen es noch alltagstauglicher und machen Micropayments möglich.
+* Der neuartige Airdrop-Prozess von Bitcore führte zu einer deutlich gleichmäßigeren Verteilung der Coins und förderte die Verwendung von Bitcore als Zahlungsmittel. Die Entscheidung der Bitcore-Community, auf ein Initial Coin Offering (ICO) zu verzichten, hat die Spekulanten in Schach gehalten.
+
+* Bitcore ist schneller als Bitcoin, schneller als sogar Paypal, so dass es dank der rechtzeitigen Implementierung von SegWit und anderen Designentscheidungen zu einer echten alltäglichen Zahlungsoption wird. Im Lightning Network wird eine theoretisch unbegrenzte Anzahl von Offline-Transaktionen unterstützt. Durch die niedrigen Gebühren von Bitcore von rund $0,003 USD pro Transaktion eignet sich Bitcore ideal für den täglichen Gebrauch, da auch geringe Zahlungen (Micropayments) problemlos möglich sind.
 
 * Bitcore ist ein Open-Source-Projekt: Kollaborativ gestartet, frei geteilt, transparent veröffentlicht und entwickelt, um ein Gemeinschaftsgut zu sein und nicht das Eigentum oder Geschäft eines einzelnen Unternehmens oder einer einzelnen Person (ii).
 
