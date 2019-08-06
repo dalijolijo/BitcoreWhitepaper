@@ -1,7 +1,6 @@
 # Kapitel 1
-## Bitcore – eine wirkliche Community-getriebene Zahlungslösung
+## Bitcore – eine echte Community-basierte Zahlungslösung
 
-Bitcore - Eine echte Community-basierte Zahlungslösung
 Bitcore ist eine Kryptowährung, die die ursprüngliche Bitcoin Vision zukunftssicher machen soll. 
 
 Bitcore behält die zentralen Vorteile von Bitcoin bei - aber das Bitcore Gründungsteam bringt die ursprüngliche Bitcoin-Technologie mutig in die Zukunft. Bitcore, ursprünglich eine Hybridgabel von Bitcoin, verfügt über einen Proof-of-Work-Konsensmechanismus und implementiert alle BIPs (Bitcoin Improvement Proposals) des Bitcoin-Protokolls.
