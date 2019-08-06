@@ -1,32 +1,32 @@
 # Kapitel 1
 ## Bitcore – eine wirkliche Community-getriebene Zahlungslösung
 
-Bitcore ist eine Kryptowährung, die ins Leben gerufen wurde, um die ursprüngliche Bitcoin Vision zukunftssicher zu machen.
+Bitcore - Eine echte Community-basierte Zahlungslösung
+Bitcore ist eine Kryptowährung, die die ursprüngliche Bitcoin Vision zukunftssicher machen soll. 
 
-Bitcore behält die zentralen Vorteile von Bitcoin bei – doch das Bitcore Gründungsteam führt die ursprüngliche Bitcoin-Technologie mutig in die Zukunft. Bitcore, ursprünglich ein Hybrid-Fork von Bitcoin, verbessert den Proof-of-Work (PoW) Konsens-Mechanismus und implementiert alle BIPs (Bitcoin Improvement Proposals) Verbesserungsvorschläge des Bitcoin Protokolls.
+Bitcore behält die zentralen Vorteile von Bitcoin bei - aber das Bitcore Gründungsteam bringt die ursprüngliche Bitcoin-Technologie mutig in die Zukunft. Bitcore, ursprünglich eine Hybridgabel von Bitcoin, verfügt über einen Proof-of-Work-Konsensmechanismus und implementiert alle BIPs (Bitcoin Improvement Proposals) des Bitcoin-Protokolls.
 
-Durch seine schlanke Struktur und seine aktive Community ist Bitcore bei der Umsetzung notwendiger Innovationen agiler als andere Coins. Auf der Bitcore Blockchain wurde SegWit (Segregated Witness) viereinhalb Monate früher aktiviert als auf der Bitcoin Blockchain  und ist damit voll kompatibel zur Lightning Network Technologie.
+Durch seine schlanke Struktur und aktive Community ist Bitcore agiler als andere Coins bei der Umsetzung notwendiger Innovationen. Auf der Bitcore Blockchain wurde SegWit (Segregated Witness) 4,5 Monate früher als auf der Bitcoin Blockchain aktiviert, wodurch es vollständig kompatibel zum Lightning Network ist.
 
-Am Wichtigsten ist jedoch, dass Bitcore echte Dezentralisierung umsetzt und somit den Benutzern die volle Kontrolle zurückgibt:
+Am wichtigsten ist, dass Bitcore eine echte Dezentralisierung und Benutzerbefähigung implementiert:
 
-* Bitcore‘s ASIC-resistenter Mining-Algorithmus stellt die Beteiligung der Community wieder her und konterkariert die Zentralisierungseffekte im Bitcoin Mining.
+* Der ASIC-resistente Mining-Algorithmus von Bitcore stellt die Beteiligung der Community wieder her und wirkt Zentralisierungseffekten im Mining entgegen.
 
-* Bitcore´s Verwendung von Bloom Filter (i) reduziert den benötigten Speicher beim Betreiben eines vollwertigen Blockchain Knotens (Full-Node) signifikant, so dass mehr Benutzer mithilfe eines SPV/Light-Wallets am Bitcore Netzwerk partipizieren können.
+* Die Anwendung von Bloom-Filtern durch Bitcore (i) reduziert den Speicherbedarf für den Betrieb eines vollständigen Blockchain-Nodes erheblich und ermöglicht es mehr einzelnen Benutzern, über SPV/light Wallets vollberechtigte Bitcore-Teilnehmer zu werden.
+Der neuartige Airdrop-Prozess von Bitcore führte zu einer deutlich gleichmäßigeren Verteilung der Coins und förderte die Verwendung von 
 
-* Der neuartige Airdrop-Prozess von Bitcore führte zu einer deutlich gleichmäßigeren Verteilung der Coins, was Bitcores Verwendung als Zahlungsmittel positiv beeinflusst. Die Entscheidung der Bitcore Community auf ein Initial Coin Offering (ICO) zu verzichten, hat die Spekulanten in Schach gehalten.
+* Bitcore als Zahlungsmittel. Die Entscheidung der Bitcore-Community, auf ein Initial Coin Offering (ICO) zu verzichten, hat die Spekulanten in Schach gehalten.
 
-* Bitcore ist schneller als Bitcoin und sogar schneller als PayPal, so dass es dank der rechtzeitigen Implementierung von SegWit und anderen Design-Entscheidungen zu einer echten alltagstauglichen Zahlungsoption wird. Im Lightning Network wird eine theoretisch unbegrenzte Anzahl von Offline-Transaktionen unterstützt. Durch die niedrigen Gebühren von Bitcore von rund $0,003 USD pro Transaktion eignet sich Bitcore noch besser für den täglichen Gebrauch, da auch geringe Zahlungen (Micropayments) problemlos möglich sind.
+* Bitcore ist schneller als Bitcoin, schneller als sogar Paypal, so dass es dank der rechtzeitigen Implementierung von SegWit und anderen Designentscheidungen zu einer echten alltäglichen Zahlungsoption wird. Im Lightning Network wird eine theoretisch unbegrenzte Anzahl von Offline-Transaktionen unterstützt. Die niedrigen Gebühren von Bitcore von rund 0,003 USD pro Transaktion machen es noch alltagstauglicher und machen Micropayments möglich.
 
-* Bitcore ist ein Open-Source Projekt: gemeinsam gestartet, frei geteilt, transparent veröffentlicht und entwickelt. Entwickelt als Allgemeingut und nicht Eigentum eines Unternehmens oder einer einzelnen Person (ii).
+* Bitcore ist ein Open-Source-Projekt: Kollaborativ gestartet, frei geteilt, transparent veröffentlicht und entwickelt, um ein Gemeinschaftsgut zu sein und nicht das Eigentum oder Geschäft eines einzelnen Unternehmens oder einer einzelnen Person (ii).
 
 > “Bitcore: The most clever Bitcoin fork”
 > *--Jimmy Song (iii), Bitcoin Core-Entwickler*
 
-Zusammengefasst:
+Auf den Punkt gebracht:
 
-Bitcore ist die originale, Community-getriebene, Peer-to-Peer digitale Zahlungslösung - die schon heute die Antwort zukünftiger Herausforderungen ist.
-
-Wenn Satoshi Nakamoto im Jahr 2008 gewusst hätte, was heute nach 10-jähriger Krypto-Erfahrung bekannt ist, dann hätte er Bitcoin (iv) von Anfang so wie jetzt Bitcore entwickelt. Heute bietet Bitcore jedem die Möglichkeit ein Teil von Satoshi´s ursprünglicher Vision zu sein - frisch und frei von den wirtschaftlich fragwürdigen Entwicklungen der Vergangenheit.
+Bitcore ist die originale Community-basierte, Peer-to-Peer-Lösung für digitale Zahlungen, die an die Bedürfnisse von morgen angepasst ist. Wenn Satoshi Nakamoto 2008 gewusst hätte, welche Erfahrungen die Krypto-Community in den letzten 10 Jahren gemacht hat, dann ist Bitcore das, wie Bitcoin (iv) von Anfang an ausgesehen hätte. Heute bietet Bitcore jedem die Möglichkeit, Teil von Satoshis ursprünglicher Vision zu sein - frisch und unbeeinflusst von fragwürdigen wirtschaftlichen Entwicklungen der Vergangenheit.
 
 ---
 
