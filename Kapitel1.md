@@ -3,7 +3,7 @@
 
 Bitcore ist eine Kryptowährung, die die ursprüngliche Bitcoin Vision zukunftssicher machen soll. 
 
-Bitcore behält die zentralen Vorteile von Bitcoin bei - aber das Bitcore Gründungsteam bringt die ursprüngliche Bitcoin-Technologie mutig in die Zukunft. Bitcore, ursprünglich eine Hybridgabel von Bitcoin, verfügt über einen Proof-of-Work-Konsensmechanismus und implementiert alle BIPs (Bitcoin Improvement Proposals) des Bitcoin-Protokolls.
+Bitcore behält die zentralen Vorteile von Bitcoin bei - aber das Bitcore Gründungsteam bringt die ursprüngliche Bitcoin-Technologie mutig in die Zukunft. Bitcore, ursprünglich eine Hybrid-Fork von Bitcoin, verfügt über einen Proof-of-Work-Konsensmechanismus und implementiert alle BIPs (Bitcoin Improvement Proposals) des Bitcoin-Protokolls.
 
 Durch seine schlanke Struktur und aktive Community ist Bitcore agiler als andere Coins bei der Umsetzung notwendiger Innovationen. Auf der Bitcore Blockchain wurde SegWit (Segregated Witness) 4,5 Monate früher als auf der Bitcoin Blockchain aktiviert, wodurch es vollständig kompatibel zum Lightning Network ist.
 
