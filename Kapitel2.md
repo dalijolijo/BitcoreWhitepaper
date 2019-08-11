@@ -32,7 +32,9 @@ Insbesondere war die Entwicklung von Bitcore nur möglich, weil Bitcoin die folg
 7. Anwendbarkeit der Lizenz ohne Notwendigkeit der Ausführung einer anderen Lizenz
 8. Lizenz nicht produktspezifisch
 9. Keine Einschränkungen anderer Software durch die Lizenz
-10. Technologie-Neutralität der Lizenz durch die Einhaltung dieser Standards der Open-Source-Software ermöglicht Bitcore der Open-Source-Community den Zugriff, die Änderung und die Weiterentwicklung Ihres Codes, ohne jegliche Diskriminierung in Bezug auf Identität, Hintergrund, Absicht oder Branche.
+10. Technologie-Neutralität der Lizenz 
+
+Durch die Einhaltung dieser Standards der Open-Source-Software ermöglicht Bitcore der Open-Source-Community den Zugriff, die Änderung und die Weiterentwicklung Ihres Codes, ohne jegliche Diskriminierung in Bezug auf Identität, Hintergrund, Absicht oder Branche.
 
 
 ## 2.2 Verteilung: Eins-zu-Eins Claiming, Hybrid Fork und Airdrop
@@ -41,16 +43,16 @@ Klassische Bitcoin-Forks kopieren die Bitcoin-Blockkette zu einem bestimmten Blo
 16,2 Millionen Bitcore Coins (BTX) wurden vorab abgebaut (entspricht der Anzahl der vorhandenen Bitcoin zum Zeitpunkt der Erstellung der Bitcore-Blockkette) und waren somit bereit für die Verteilung an die Community.
 
 Die Verteilung von BTX an seine potenzielle Nutzer Community erfolgte in drei Phasen:
-* Eins-zu-eins-Anspruch
+* Eins-zu-Eins Inanspruchnahme (Claiming)
 * Hybrid Fork
 * Airdrop
 
-### 2.2.1 Eins-zu-Eins Claiming
-In den ersten sechs Monaten des Bestehens von Bitcore konnten Bitcoin Nutzer von April 2017 bis November 2017 ihren Bitcore (BTX) in einem 1:1-Verhältnis gegen Bitcore (BTX) austauschen.
+### 2.2.1 Eins-zu-Eins Inanspruchnahme (Claiming)
+In den ersten sechs Monaten des Bestehens von Bitcore, von April 2017 bis November 2017, konnten Bitcoin-Besitzer ihre Bitcoin (BTC) zu Bitcore (BTX) im Verhältnis 1:1 austauschen.
 
-Dieser Austausch wurde mit einer Datenbank und Bitcoin`s Sign Message Funktion (vi) implementiert.
+Dieser Austausch wurde mit Hilfe einer Datenbank und der Sign-Message-Funktion(vi) von Bitcoin realisiert.
 
-Von 16,2 Millionen vorgeminten BTX wurden 590.000 in diesem ersten Verteilungsschritt beansprucht. Die Gelegenheit für das 1:1 Claiming endete am 2. November 2017.
+Von 16,2 Millionen pre-mined BTX wurden in diesem ersten Verteilungsschritt 590.000 abgerufen. Die Möglichkeit zur 1:1 Inanspruchnahme (Claiming) endete am 2. November 2017.
 
 ### 2.2.2 Hybrid Fork
 Am 2. November 2017 wurde in Blockhöhe #492, 820 des Bitcoin Protokolls, eine Momentaufnahme der Bitcoin Blockchain genommen. Die Ausschüttung des restlichen 15,8 Millionen vorabgebauten BTX setzte sich in einer anderen Weise fort als die 1:1, die in der ersten Phase behaupteten.
