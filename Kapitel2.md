@@ -1,36 +1,39 @@
 # Kapitel 2
 ## Von Bitcoin zu Bitcore
 
-> "Eine reine Peer-to-Peer Version von elektronischem Bargeld würde es ermöglichen, Online-Zahlungen direkt von einer Partei zur anderen zu schicken, ohne dass ein Finanzinstitut involviert sein muss. Digitale Signaturen eignen sich als Teil der Lösung. Sobald jedoch ein vertrauenswürdiger Dritter benötigt wird, um Doppelausgaben zu verhindern, gehen die Hauptvorteile von digitale Signaturen verloren. Wir schlagen als Lösung für das Problem der doppelten Ausgaben die Nutzung eines Peer-to-Peer-Netzwerkes vor."
+> "Eine reine Peer-to-Peer Version von elektronischem Bargeld würde es ermöglichen, Online-Zahlungen direkt von einer Partei zur anderen zu schicken, ohne dass ein Finanzinstitut involviert sein muss. Digitale Signaturen sind ein Teil der Lösung, aber die Hauptvorteile gehen verloren, wenn ein vertrauenswürdiger Dritter weiterhin benötigt wird, um Doppelausgaben zu vermeiden. Wir schlagen eine Lösung für das Problem der doppelten Ausgaben vor, indem wir ein Peer-to-Peer-Netzwerk verwenden."
 *-- Satoshi Nakamoto, 2008*
 
-Es war diese Aussage, die das moderne Konzept der Kryptowährung und in der Tat der dezentralen Finanzierung hervorbrachte. Bis Satoshi Nakamoto das ursprüngliche Bitcoin Konzept entwarf, verließ sich praktisch die ganze Finanzwelt auf die zentralen Behörden - der zentrale Schwachpunkt. Die Sicherheit des Geldes aller war abhängig von der Sicherheit und der wirtschaftlichen Gesundheit der Bank oder des Finanzinstituts, die im Besitz der Fonds sind.
 
-Jeder Fall von Sicherheitsbruch, Fehlverhalten oder Bankrott in der Finanzwelt bedeutete, dass diejenigen, die sich auf diese Institutionen verließen, um Ihre Ersparnisse zu schützen, potenziell ohne die notwendigen Mittel bleiben würden.
+Es war diese Aussage, die das moderne Konzept der Kryptowährung und der dezentralen Finanzen hervorbrachte. Bis Satoshi Nakamoto das ursprüngliche Bitcoin-Konzept entwarf, verließ sich praktisch die ganze Finanzwelt auf die Zentralbehörden, genauer gesagt: Zentrale Schwachstellen. Die Sicherheit des Geldes aller war abhängig von der Sicherheit und der wirtschaftlichen Gesundheit der Bank oder des Finanzinstituts, die im Besitz der Mittel war.
 
-Ohne eine bisher nicht vorhandene Technologie erfinden zu müssen, kombinierte Satoshi Nakamoto bestehende Paradigmen auf neuartige Weise, um dieses Problem zu lösen: ein verteiltes Ledger, das durch den Nachweis der Arbeit gesichert ist, würde künftig einen Rahmen bieten, in dem die Teilnehmer wäre gezwungen, ehrlich zu bleiben, ohne Intervention – und das Potenzial der Manipulation durch irgendeine Art von zentraler Autorität –.
+Jeder Fall von Sicherheitsverletzungen, Fehlverhalten oder Konkurs in der Finanzwelt bedeutete, dass diejenigen, die sich auf diese Institute verlassen haben, um ihre Ersparnisse zu schützen, möglicherweise ohne die Ersparnisse zurückbleiben würden.
 
-Der incentivisierte Prozess, der "Mining" genannt wird, war und ist für das Funktionieren dieses Systems von zentraler Bedeutung. Eine Reihe von Regeln, die sicherstellen, dass das System im wesentlichen autonom und nachhaltig arbeiten kann, ohne jegliche Direktive von "Führern" oder auch von jeder Art von individueller oder einzelner Einheit. Dies geschah absichtlich, um das Prinzip der Dezentralisierung beizubehalten: Wenn ein Unternehmen für die Gewährleistung eines reibungslosen Funktionierens des Systems verantwortlich wäre, dann würde dieses Gebilde einen potenziellen einzigen Punkt des Scheiterns darstellen – der den Zweck der das Protokoll.
+Ohne irgendeine Art von bisher nicht existierender Technologie erfinden zu müssen, kombinierte Satoshi Nakamoto bestehende Paradigmen auf neuartige Weise, um dieses Problem zu lösen: Ein durch Arbeitsnachweis gesichertes verteiltes Hauptbuch würde fortan einen Rahmen bieten, in dem die Teilnehmer gezwungen wären, ehrlich zu bleiben, ohne Eingriffe - und das Potenzial der Manipulation - durch irgendeine Art von zentraler Autorität.
 
-In diesem Whitepaper werden wir uns die Eigenschaften des ursprünglichen Bitcoin Protokolls – und die Art und Weise, wie Bitcore die ursprünglichen Eigenschaften von Bitcoin erhalten und verbessert hat, genauer ansehen.
+Der Anreizprozess "Mining" war und ist für das Funktionieren dieses Systems von zentraler Bedeutung. Ein Regelwerk stellte sicher, dass das System im Wesentlichen autonom und nachhaltig ohne Anweisung von "Führungskräften" oder irgendeiner Art von Einzelpersonen oder Einzelunternehmen funktionieren konnte. Dies wurde mit der Absicht getan, das Prinzip der Dezentralisierung beizubehalten: Wenn ein einzelnes Unternehmen für den reibungslosen Betrieb des Systems verantwortlich wäre, dann würde diese Einheit einen potenziellen Single Point of Failure darstellen - was den Zweck des Protokolls zunichte machen würde.
 
-Dies wird zeigen, warum und wie das Bitcore Protokoll eine leistungsfähige Alternative kryptowährung ist, die dazu beiträgt, einige der Anwendungsfälle für kryptowährungen zu erleichtern, die durch die derzeit existierende Kryptotechnologie noch nicht erreichbar sind.
+In diesem Whitepaper werden wir uns die Funktionsweise des ursprünglichen Bitcoin-Protokolls genauer ansehen - und die Art und Weise, wie Bitcore das ursprünglichen Bitcoin-Protokoll weiterentwickelt und verbessert hat.
+
+Dies wird zeigen, warum und wie das Bitcore-Protokoll eine leistungsfähige alternative Kryptowährung ist, um einige der Anwendungsfälle für Kryptowährungen zu erleichtern, die mit der derzeit verfügbaren Kryptotechnologie noch nicht erreichbar waren.
+
 
 ## 2.1 Bitcore als Open Source
-Sowohl Bitcoin als auch Bitcore sind wirklich Open-Source-Bemühungen. Die Bitcore Community spürt, dass dies im Einklang mit dem dezentralen, partizipativen und gemeinschaftsorientierten Geist von Bitcore steht.
+Sowohl Bitcoin als auch Bitcore sind echte Open-Source Projekte. Die Bitcore-Community ist der Überzeugung, dass dies im Einklang mit dem dezentralen, partizipativen und gemeinschaftsorientierten Geist von Bitcore steht.
 
-Insbesondere war die Entwicklung von Bitcore nur möglich, weil Bitcoin die folgenden Eigenschaften von Open Source einhält, wie es die Open Source initiativ vorschreibt und im Gegenzug unterliegt die Bitcore Codebasis den gleichen Bedingungen und Freiheitsgraden:
+Insbesondere war die Entwicklung von Bitcore nur möglich, weil Bitcoin die folgenden Merkmale von Open Source, wie von der Open Source Initiative gefordert, erfüllt hat - und die Bitcore Codebasis wiederum unterliegt den gleichen Bedingungen und Freiheitsgraden:
 
-1. Freie Umverteilung
-2. Aufnahme des Quellcodes
-3. Genehmigung von abgeleiteten Werken und Modifikationen und deren Verbreitung
+1. Kostenlose Weiterverteilung
+2. Einbinden von Quellcode
+3. Berechtigung den Code zu kopieren, zu modifizieren und zu veröffentlichen.
 4. Integrität des Quellcodes des Autors
 5. Keine Diskriminierung von Personen oder Gruppen
-6. Keine Diskriminierung von Tätigkeitsfeldern
-7. Anwendbarkeit der Lizenz ohne Notwendigkeit für die Ausführung einer anderen Lizenz
-8. Lizenz nicht spezifisch für ein Produkt
-9. Keine Einschränkungen anderer Software durch Lizenz
-10. Technologie Neutralität der Lizenz durch die Einhaltung dieser Standards der Open-Source-Software ermöglicht Bitcore der Open-Source-Community den Zugriff, die Änderung und die Weiterentwicklung Ihres Codes, ohne jegliche Diskriminierung in Bezug auf Identität, Hintergrund, Absicht oder Industrie.
+6. Keine Diskriminierung von Arbeitsbereichen
+7. Anwendbarkeit der Lizenz ohne Notwendigkeit der Ausführung einer anderen Lizenz
+8. Lizenz nicht produktspezifisch
+9. Keine Einschränkungen anderer Software durch die Lizenz
+10. Technologie-Neutralität der Lizenz durch die Einhaltung dieser Standards der Open-Source-Software ermöglicht Bitcore der Open-Source-Community den Zugriff, die Änderung und die Weiterentwicklung Ihres Codes, ohne jegliche Diskriminierung in Bezug auf Identität, Hintergrund, Absicht oder Branche.
+
 
 ## 2.2 Verteilung: Eins-zu-Eins Claiming, Hybrid Fork und Airdrop
 Klassische Bitcoin Forks kopieren die Bitcoin Blockchain an einem bestimmten Block und piont rechtzeitig. Bitcore hat jedoch eine neuen Coin mit einer leeren Blockchain geschaffen, mit dem ausdrücklichen Ziel, Bitcore von Bitcoin zu trennen und als eigenständige Einheit zu etablieren.
