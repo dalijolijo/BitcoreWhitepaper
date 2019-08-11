@@ -36,12 +36,11 @@ Insbesondere war die Entwicklung von Bitcore nur möglich, weil Bitcoin die folg
 
 
 ## 2.2 Verteilung: Eins-zu-Eins Claiming, Hybrid Fork und Airdrop
-Klassische Bitcoin Forks kopieren die Bitcoin Blockchain an einem bestimmten Block und piont rechtzeitig. Bitcore hat jedoch eine neuen Coin mit einer leeren Blockchain geschaffen, mit dem ausdrücklichen Ziel, Bitcore von Bitcoin zu trennen und als eigenständige Einheit zu etablieren.
+Klassische Bitcoin-Forks kopieren die Bitcoin-Blockkette zu einem bestimmten Block und Zeitpunkt. Bitcore hat jedoch einen neuen Coin mit einer leeren Blockchain geschaffen, mit dem ausdrücklichen Ziel, Bitcore von Bitcoin zu trennen und als eigenständige Einheit zu etablieren.
 
-16,2 Millionen Bitcore Coins (BTX) wurden vorabgebaut (entspricht der Anzahl der bestehenden Bitcoin im Moment der Bitcore Blockchain Erstellung) und damit bereit für die Verteilung an die Community.
+16,2 Millionen Bitcore Coins (BTX) wurden vorab abgebaut (entspricht der Anzahl der vorhandenen Bitcoin zum Zeitpunkt der Erstellung der Bitcore-Blockkette) und waren somit bereit für die Verteilung an die Community.
 
-Die Verteilung von BTX auf die angehende Nutzergemeinde erfolgte in drei Phasen:
-
+Die Verteilung von BTX an seine potenzielle Nutzer Community erfolgte in drei Phasen:
 * Eins-zu-eins-Anspruch
 * Hybrid Fork
 * Airdrop
