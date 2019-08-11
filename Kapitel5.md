@@ -3,21 +3,21 @@
 
 ### Chris
 
-*Kernentwickler C ++ und Qt*
+*Hauptentwickler C ++ und Qt*
 
-Chris ist der Hauptentwickler von Bitcore. Er hat an mehreren anderen Münzen wie BitSend, Bitcloud und mehr gearbeitet. Er ist einer der Gründer von Limxtec ( https://github.com/LIMXTEC ) und verfügt über langjährige Erfahrung im Krypto-Bereich.
+Chris ist der Hauptentwickler von Bitcore. Er hat an mehreren anderen Coins wie BitSend, Bitcloud und anderen gearbeitet. Er ist einer der Gründer von LIMXTEC(https://github.com/LIMXTEC) und verfügt über langjährige Erfahrung im Kryptobereich.
 
 ### Jon
 
 *System, Service Administrator und Allroundtalent*
 
-Jon ist der API-, Electrum- und Infrastruktur-Entwickler für Bitcore und für die Wartung unseres Servernetzwerks verantwortlich. Er war die treibende Kraft bei der Entwicklung und Ausführung der Hybridgabel und der wöchentlichen Airdrops.
+Jon ist der API-, Electrum- und Infrastrukturentwickler für Bitcore und verantwortlich für die Wartung unseres Servernetzwerks. Er war die treibende Kraft bei der Entwicklung und Ausführung des Hybridforks und der wöchentlichen Airdrops.
 
 ### Steve
 
 *Markenbotschafter & Social Media*
 
-Steve beaufsichtigt den Kontakt zu Börsen und Auflistungsseiten und ist unser wichtigster Ansprechpartner für Geschäftskontakte.
+Steve betreut den Kontakt zu Börsen und Listing-Webseiten und ist unser wichtigster Ansprechpartner für Geschäftskontakte.
 
 ### David
 
@@ -35,13 +35,13 @@ Ivo hilft Bitcore dabei, sowohl legal als auch technisch zu wachsen.
 
 *Exchange-Verwaltung*
 
-Thomas ist unser E-Mail- und Exchange-Manager, der für den Großteil unserer offiziellen Kommunikation mit Services und Exchange-Plattformen verantwortlich ist.
+Thomas ist unser E-Mail- und Exchange-Manager und verantwortlich für den Großteil unserer offiziellen Kommunikation mit Services und Exchange-Plattformen.
 
 ### Greg (GM)
 
 *Mining-Experte und Pool Manager*
 
-Mining Pool Admin und Mining Support über Telegrammkanal.
+Verwaltung des Mining-Pools und Unterstützung beim Mining über den Telegrammkanal.
 
 ### DgCarlosLeon
 
@@ -69,13 +69,13 @@ Hampus organisiert Signaturkampagnen und verwaltet unsere Threads in vielen Altc
 
 *Unterstützung*
 
-Brad ist Bitcores Facebook-Manager.
+Brad ist der Facebook-Manager von Bitcore.
 
 ### Ugur
 
 *Unterstützung*
 
-Ugur verwaltet die türkische Gemeinde von Bitcore und hilft bei der Unterstützung von Telegrammen.
+Ugur leitet die türkische Community von Bitcore und hilft beim Telegram Support.
 
 ### Eric
 
