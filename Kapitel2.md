@@ -42,58 +42,64 @@ Klassische Bitcoin-Forks kopieren die Bitcoin-Blockkette zu einem bestimmten Blo
 
 16,2 Millionen Bitcore Coins (BTX) wurden vorab abgebaut (entspricht der Anzahl der vorhandenen Bitcoin zum Zeitpunkt der Erstellung der Bitcore-Blockkette) und waren somit bereit für die Verteilung an die Community.
 
-Die Verteilung von BTX an seine potenzielle Nutzer Community erfolgte in drei Phasen:
+Die Verteilung von BTX an seine potenzielle Nutzer-Community erfolgte in drei Phasen:
 * Eins-zu-Eins Inanspruchnahme (Claiming)
 * Hybrid Fork
 * Airdrop
 
+
 ### 2.2.1 Eins-zu-Eins Inanspruchnahme (Claiming)
-In den ersten sechs Monaten des Bestehens von Bitcore, von April 2017 bis November 2017, konnten Bitcoin-Besitzer ihre Bitcoin (BTC) zu Bitcore (BTX) im Verhältnis 1:1 austauschen.
+In den ersten sechs Monaten des Bestehens von Bitcore, von April 2017 bis November 2017, konnten Bitcoin (BTC) Besitzer genau so viele Bitcore (BTX) auf der Bitcore-Blockchain in Anspruch nehmen.
 
-Dieser Austausch wurde mit Hilfe einer Datenbank und der Sign-Message-Funktion(vi) von Bitcoin realisiert.
+Dieses Claiming wurde mit Hilfe einer Datenbank und der Sign-Message-Funktion(vi) von Bitcoin realisiert.
 
-Von 16,2 Millionen pre-mined BTX wurden in diesem ersten Verteilungsschritt 590.000 abgerufen. Die Möglichkeit zur 1:1 Inanspruchnahme (Claiming) endete am 2. November 2017.
+Von 16,2 Millionen vorab geminten BTX wurden in diesem ersten Verteilungsschritt 590.000 BTX abgerufen. Die Möglichkeit zur 1:1 Inanspruchnahme (Claiming) von Bitcore endete am 2. November 2017.
+
 
 ### 2.2.2 Hybrid Fork
-Am 2. November 2017 wurde in Blockhöhe #492, 820 des Bitcoin Protokolls, eine Momentaufnahme der Bitcoin Blockchain genommen. Die Ausschüttung des restlichen 15,8 Millionen vorabgebauten BTX setzte sich in einer anderen Weise fort als die 1:1, die in der ersten Phase behaupteten.
+Am 2. November 2017 wurde in Blockhöhe #492.820 des Bitcoin-Protokolls eine Momentaufnahme (Snapshot) der Bitcoin-Blockkette erstellt. Die Verteilung der restlichen 15,8 Millionen vorab geminten BTX wurde in einer Weise fortgesetzt, die sich von der 1:1-Inanspruchnahme in der ersten Phase unterschied.
 
-Alle Adressen an der Bitcore Blockchain, deren entsprechende Adressen an der Bitcoin Blockchain Mittel in Höhe von mindestens 0,01 BTC hielten, wurden in BTX mit 50% gefüllt, bezogen auf die Menge des BTC, die in der jeweiligen Adresse gehalten wird. Die Förderquote lag also 0,5 BTX auf 1,0 BTC.
+Alle Adressen auf der Bitcore-Blockkette, deren entsprechende Adressen auf der Bitcoin-Blockchain einen Wert von mindestens 0,01 BTC aufwiesen, wurden mit 50% des Wertes an BTX gefüllt - bezogen auf den Wert der BTC in der jeweiligen Adresse. Die Funding-Ratio betrug also 0,5 BTX bis 1,0 BTC.
 
-In den darauffolgenden Tagen wurden rund 5 Millionen Transaktionen abgewickelt und rund 8 Millionen BTX auf alle zugelassenen Adressen verteilt. Dies war nicht nur ein praktischer Weg, um BTX zu vertreiben, sondern hat auch gezeigt, dass die BTX Blockchain in der Lage ist, eine große Anzahl von Transaktionen in relativ kurzer Zeit zu verarbeiten.
+In den folgenden Tagen wurden rund 5 Millionen Transaktionen abgewickelt und rund 8 Millionen BTX auf alle berechtigten Adressen verteilt. Dies war nicht nur eine praktische Möglichkeit, BTX zu verteilen, sondern hat auch gezeigt, dass die BTX-Blockchain in der Lage ist, eine große Anzahl von Transaktionen in relativ kurzer Zeit zu verarbeiten.
 
-Demnach wurden rund 8 Millionen der ursprünglich 16 Millionen vorgebauten BTX an die Gemeinde verteilt. Von den restlichen 8 Millionen wurden 10% vom Bitcore Team für die zukünftige technische Entwicklung gespeichert.
+So wurden etwa 8 Millionen der anfänglich 16 Millionen vorab geminten BTX an die Community verteilt. Von den restlichen 8 Millionen wurden 10% vom Bitcore-Team für die zukünftige technische Entwicklung zurück gehalten.
+
 
 ### 2.2.3 Airdrop
-90% der restlichen 8 Millionen BTX wurden schließlich in einer Reihe von wöchentlichen Flug Tropfen verteilt, nach einem Differential Plan.
+90% der restlichen 8 Millionen BTX wurden schließlich nach einem differenzierten Zeitplan in einer Reihe von wöchentlichen Airdrops verteilt.
 
-Im anfänglichen airdrop wurde ein Bonus von 25% des BTX-Wallet-Guthabens des Nutzers verteilt. Folglich wurden weitere Luft Tropfen nach folgendem Zeitplan durchgeführt (mit einem Prozentsatz der Geldbörse-Bilanz des Nutzers):
+Beim ersten Airdrop wurde ein 25%iger Bonus auf das BTX Wallet Guthaben des Benutzers verteilt. Infolgedessen wurden weitere Airdrops nach folgendem Zeitplan durchgeführt (mit Prozentsatz der Wallet Balance des Benutzers):
 
 * + 5% jeden Montag im Januar 2018
 * + 6% jeden Montag im Februar 2018
 * + 7% jeden Montag im März 2018
 * + 8% jeden Montag im April 2018
 * + 9% jeden Montag im Mai 2018
-Mit dieser letzten Phase wurde die Verteilung des vorabgebauten BTX abgeschlossen.
+
+Mit dieser letzten Phase wurde die Verteilung von vorab geminten BTX abgeschlossen.
+
 
 ### 2.2.4 Ein Airdrop Beispiel
-Ein Beispiel wird den Prozess weiter veranschaulichen:
+Ein Beispiel soll den Prozess weiter veranschaulichen:
 
-Alice hält 20 Bitcore (BTX) in Ihrem Wallet. Sie hat ihre Geldbörse für einen airdrop im Januar angemeldet, als der Bonus Anteil bei fünf Prozent lag. Sie ist daher berechtigt, 5% ihres gesamten BTX-Guthabens im Januar zu erhalten:
+Alice hält 20 Bitcore (BTX) in ihrer Wallet. Sie hat ihre Wallet für einen Airdrop im Januar registriert, als der Bonusprozentsatz 5% betrug. Sie ist daher berechtigt, 5% ihres gesamten BTX-Guthabens im Januar als Airdrop zu erhalten:
 
 ```
 20 BTX * 5% = 1 BTX
 ```
-So erhält Alice einen weitere BTX Coin und besitzt nach dem Airdrop im Januar insgesamt 21 BTX in ihrer Wallet.
+So erhält Alice einen zusätzlichen BTX-Coin und besitzt nach dem Airdrop im Januar insgesamt 21 BTX in ihrer Wallet.
+
 
 ### 2.2.5 Warum ein Hybrid Fork und der Airdrop?
-Der entscheidende Unterschied zwischen diesem Modell und dem typischen harten Fork in anderen Modellen ist folgendes: anstatt eine identische Anzahl aller ausstehenden Coins zu verteilen, die zum Zeitpunkt des Schnappschusses auf der Blockchain ausgegeben worden waren, wurden nur 50% von BTX Coins wurden auf diese Weise verteilt. Die daraus resultierenden 50% wurden nur an aktive BTX-Nutzer verteilt. Auf diese Weise stellte das Bitcore Team sicher, dass passive Inhaber massiver Mengen an Bitcoin, sogenannte Wale, nicht automatisch auch zu "Bitcore Walen" werden und damit die Machtverhältnisse innerhalb der Bitcore Community verzerren sowie die zirkulierenden Versorgung von Bitcore in einer Weise, die zukünftigen Operationen des Ökosystems Schaden würde. Stattdessen gelang es dem Bitcore Team, eine gleichberechtigtere Verteilung der Coins zu erreichen als bisherige Bitcoin Forks, entsprechend den dezentralen und partizipativen idealen der Bitcore Community.
+Der entscheidende Unterschied zwischen diesem Modell und dem typischen Hard-Fork Modell ist der folgende: Anstatt eine identische Anzahl aller ausstehenden Coins zu verteilen, die zum Zeitpunkt des Snapshots auf der Blockchain ausgegeben wurden, wurden nur 50% der BTX Coins auf diese Weise verteilt. Die daraus resultierenden 50% wurden nur an aktive BTX-Benutzer verteilt. Auf diese Weise stellte das Bitcore-Team sicher, dass passive Besitzer massiver Bitcoin-Mengen, so genannte "Bitcoin-Wale", nicht automatisch auch zu "Bitcore-Walen" werden und damit das Machtgleichgewicht innerhalb der Bitcore-Community verzerren und das zirkulierende Angebot an Bitcore so begrenzen, dass zukünftige Aktivitäten des Ökosystems beeinträchtigt würden. Stattdessen gelang es dem Bitcore-Team, eine gleichmäßigere Verteilung der Coins zu erreichen als bei früheren Bitcoin-Forks - im Einklang mit den dezentralen und partizipativen Idealen der Bitcore-Community.
+
 
 ## Kein ICO
-Als Hybrid Fork wurde Bitcore's Launch nicht durch einem "Initial Coin Offering (ICO)" gestartet oder finanziert.
+Als Hybrid-Fork war die Markteinführung von Bitcore nicht durch ein Initial Coin Offering (ICO) realisiert oder finanziert.
 
-Dies war eine bewusste Entscheidung der Bitcore Community, die die Chancengleichheit und die Teilhabe potenzieller BTX-Nutzer auf der ganzen Welt fördern sollte. Wie Trends und Entwicklungen in der Krypto Sphäre in den letzten Jahren gezeigt haben, ziehen ICOs Spekulanten an, wodurch die Volatilität der zugrunde liegenden kryptowährung zunimmt und der alltägliche nutzen abnimmt. Darüber hinaus führen ICOs
-zu einem Zustrom von vermögenden Privatanlegern, die sich ihren Weg in unverhältnismäßige macht und Einfluss auf Krypto Community "kaufen". Zu guter Letzt gelten für ICOs, deren Teams in verschiedenen Ländern ansässig sind, unterschiedliche regulatorische Rahmenbedingungen, von denen viele Bürger bestimmter Länder ausdrücklich von der Teilnahme an ICOs ausschließen.
+Dies war eine bewusste Entscheidung der Bitcore-Community, die darauf abzielte, die Chancengleichheit und Beteiligung potenzieller BTX-Nutzer auf der ganzen Welt zu fördern. Wie Trends und Entwicklungen im Kryptobereich in den letzten Jahren gezeigt haben, ziehen ICOs Spekulanten an, was die Volatilität der zugrunde liegenden Kryptowährung erhöht und deren Alltagstauglichkeit verringert. Darüber hinaus führen ICOs zu einem Zustrom von wohlhabenden Privatinvestoren, die sich den Weg in eine überproportionale Macht und einen Einfluss auf Kryptocommunities "kaufen". Nicht zuletzt gelten für ICOs, deren Teams in verschiedenen Ländern angesiedelt sind, unterschiedliche Rechtsrahmen, und viele von ihnen schließen ausdrücklich die Teilnahme von Bürgern bestimmter Länder an ICOs aus.
 
-Diese willkürlichen Einschränkungen sind für die Bitcore Community nicht akzeptabel. Wir bemühen uns, ein nützliches Krypto Ökosystem zu schaffen, das für alle Interessierten gleichermaßen zugänglich is - unabhängig von Standort und Nationalität.
+Diese willkürlichen Einschränkungen sind für die Bitcore-Community nicht akzeptabel. Wir streben danach, ein nützliches Krypto-Ökosystem zu schaffen, das für alle Interessierten gleichermaßen zugänglich ist, und dies ungeachtet von Standort und Nationalität.
 
-Um so unabhängig von den lokalen Vorschriften wie möglich zu sein, haben wir uns entschieden, als gemeinnütziges Konsortium interessierter Personen zu agieren. Die Mitgliedschaft im Gründungsteam und die Teilnahme an der Bitcore Community sind ausschließlich auf individuelle Fähigkeiten, Interesse und Engagement angewiesen, nicht auf willkürliche geografische Grenzen.
+Um so unabhängig wie möglich von lokalen Vorschriften zu sein, haben wir uns für eine gemeinnützige Interessengemeinschaft entschieden. Die Mitgliedschaft im Gründungsteam und die Teilnahme an der Bitcore-Community hängen ausschließlich von den individuellen Fähigkeiten, Interessen und dem Engagement ab, nicht von willkürlichen geografischen Grenzen.
