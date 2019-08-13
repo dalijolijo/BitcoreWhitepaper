@@ -2,10 +2,9 @@
 
 ## Lösung und technische Spezifikation
 
-Da Bitcore wichtige Innovationen implementiert hat, ist Bitcore sowohl im persönlichen als auch im geschäftlichen Kontext besonders gut als tägliches Zahlungsmittel geeignet. 
-Jede dieser Innovationen und ihre jeweilige Rolle in der gesteigerten Effizienz und Benutzbarkeit von Bitcore werden in diesem Abschnitt detailliert beschrieben.
+Bitcore zeichnet sich durch wichtige Innovationen aus, die es als alltägliches Zahlungsmittel sowohl im privaten als auch im geschäftlichen Kontext besonders gut einsetzbar machen. Jede dieser Innovationen, sowie ihre Rolle bei der Steigerung der Effizienz und Benutzerfreundlichkeit von Bitcore, wird in diesem Abschnitt erläutert.
 
-Für einen schnellen Überblick sind die wichtigsten technischen Spezifikationen von Bitcore hier zusammengefasst:
+Für einen schnellen Überblick sind die wichtigsten technischen Spezifikationen von Bitcore im Folgenden zusammengefasst:
 
 **Name Bitcore**
 
@@ -26,8 +25,9 @@ Für einen schnellen Überblick sind die wichtigsten technischen Spezifikationen
 ![Abbildung 1: Bitcoin, Bitcoin Cash, Bitcoin Gold und Bitcore - Vergleichstabelle.](images/BitcoreWhitepaperImg03.png)
 
 ## 3.1 Coin Verteilung
-Die maximale Anzahl von Münzen, die auf der Bitcore-Plattform produziert werden, ist auf 21 Millionen festgelegt. Diese Zahl wurde absichtlich so gewählt, dass sie derzeit mit dem gesamten Münzenangebot des Bitcoin-Protokolls übereinstimmt.
+Die maximale Anzahl der Coins, die auf der Bitcore-Plattform erzeugt werden, ist auf 21 Millionen begrenzt. Diese Zahl wurde bewusst gewählt, um die gleiche Gesamtmenge an Coins wie Bitcoin (BTC)  zu entsprechen.
 
+TODO:
 Dieser begrenzte Münzvorrat ist das Ergebnis des Halbierungsalgorithmus von Bitcoin, der die Münzgeld-Belohnung für Bergleute alle 210.000 Blöcke um 50% reduziert und die Anzahl der neu abgebauten Münzen etwa alle vier Jahre verringert, bis sie im Jahr 2140 ungefähr null ist.
 
 Die Blockbelohnung von Bitcore war identisch mit der Bitcoin-Blockbelohnung für die ersten 10.000 Blöcke: 12,5 BTX pro Block bei einer Blockzeit von 10 Minuten. Anschließend wurde die Belohnung durch ein Update auf 3,125 BTX bei einer durchschnittlichen Blockzeit von 2,5 Minuten reduziert.
