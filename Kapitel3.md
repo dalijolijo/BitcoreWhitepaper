@@ -24,30 +24,33 @@ Für einen schnellen Überblick sind die wichtigsten technischen Spezifikationen
 
 ![Abbildung 1: Bitcoin, Bitcoin Cash, Bitcoin Gold und Bitcore - Vergleichstabelle.](images/BitcoreWhitepaperImg03.png)
 
+
 ## 3.1 Coin Verteilung
 Die maximale Anzahl der Coins, die auf der Bitcore-Plattform erzeugt werden, ist auf 21 Millionen begrenzt. Diese Zahl wurde bewusst gewählt, um die gleiche Gesamtmenge an Coins wie Bitcoin (BTC)  zu entsprechen.
 
-TODO:
-Dieser begrenzte Münzvorrat ist das Ergebnis des Halbierungsalgorithmus von Bitcoin, der die Münzgeld-Belohnung für Bergleute alle 210.000 Blöcke um 50% reduziert und die Anzahl der neu abgebauten Münzen etwa alle vier Jahre verringert, bis sie im Jahr 2140 ungefähr null ist.
+Diese begrenzte Coinmenge ist das Ergebnis des Halbierungsalgorithmus von Bitcoin, der die Coinbase Belohnung für Miner alle 210.000 Blöcke um 50% reduziert und die Anzahl der neu gewonnenen Coins etwa alle vier Jahre reduziert, bis sie im Jahr 2140 etwa Null erreicht.
 
-Die Blockbelohnung von Bitcore war identisch mit der Bitcoin-Blockbelohnung für die ersten 10.000 Blöcke: 12,5 BTX pro Block bei einer Blockzeit von 10 Minuten. Anschließend wurde die Belohnung durch ein Update auf 3,125 BTX bei einer durchschnittlichen Blockzeit von 2,5 Minuten reduziert.
+Die Block-Belohnung von Bitcore war identisch mit der Bitcoin-Block-Belohnung für die ersten 10.000 Blöcke: 12,5 BTX pro Block, mit einer Blockzeit von 10 Minuten. Anschließend reduzierte ein Update die Belohnung auf 3,125 BTX pro Block bei einer durchschnittlichen Blockzeit von 2,5 Minuten.
 
-Bitcore wendet den gleichen Halbierungsalgorithmus auf seine Coinbase-Belohnungen an, jedoch in Intervallen von 840.000 Blöcken. Daher ist das Bitcore-Angebot genauso begrenzt wie das Bitcoin-Angebot.
+Bitcore wendet den gleichen Halbierungsalgorithmus auf seine Coinbase Belohnungen an, jedoch in Abständen von 840.000 Blöcken. Somit ist die Anzahl von Bitcores ebenso begrenzt wie die Anzahl von Bitcoins.
 
-Die folgende Tabelle zeigt die Halbierung der Blockbelohnungen von Bitcore:
+Die folgende Grafik zeigt die Halbierung der Block-Belohnung von Bitcore:
 
 ![Abbildung 2: Die Block Mining Belohnungsentwicklung von Bitcore](images/BitcoreWhitepaperImg04.png)
 
-Diese Halbierung der Belohnung in festen Intervallen von Blöcken führt zu einer vorbestimmten Endanzahl von Münzen, einem Konzept, das als kontrolliertes Angebot bezeichnet wird.
+Diese Halbierung der Belohnung in festen Abständen von Blöcken führt zu einer vorgegebenen Gesamtmenge an Coins, einem Konzept namens "Controlled Supply".
+
 
 ## 3.2 Blockchain und Algorithmen
-Bitcore verwendet einen Proof-of-Work-Algorithmus wie die von Bitcoin. Die Einstellung der Schwierigkeit wird jedoch auf innovative Weise gelöst, indem der Schwierigkeits-Retargeting-Algorithmus des Core Shield 64_15 wie nachstehend beschrieben verwendet wird.
+Bitcore verwendet wie Bitcoin einen Proof-of-Work-Algorithmus. Die Schwierigkeitsanpassung wird jedoch auf innovative Weise gelöst, indem der Schwierigkeitsanpassungs-Algorithmus "Core Shield 64_15" wie unten beschrieben verwendet wird.
 
-Ein weiterer entscheidender Unterschied zu Bitcoin sind die reduzierten Blockzeiten von Bitcoin, ein Viertel der Blockzeiten von Bitcoin, die Bitcore sowohl nutzbarer als auch sicherer machen, wie weiter unten in diesem Abschnitt beschrieben. Gleichzeitig ist die Blockgröße deutlich größer, was wiederum zu einer höheren Transaktionsgeschwindigkeit und besseren Benutzerfreundlichkeit beiträgt.
+Ein weiterer entscheidender Unterschied von Bitcore gegenüber Bitcoin sind die reduzierten Blockzeiten, ein Viertel der Blockzeiten von Bitcoin, die Bitcore sowohl benutzerfreundlicher als auch sicherer machen, wie weiter unten in diesem Abschnitt beschrieben. Gleichzeitig ist die Blockgröße deutlich größer, was wiederum zu einer höheren Transaktionsgeschwindigkeit und einer besseren Benutzerfreundlichkeit beiträgt.
 
-Die Aktivierung von SegWit - 4,5 Monate früher als bei der Bitcoin-Blockchain - und die Lightning-Netzwerkkompatibilität machen Bitcore schließlich zu einem Zahlungsmittel, das ideal auf die Bedürfnisse von Einzelpersonen und Unternehmen von morgen abgestimmt ist.
+Schließlich machen die Aktivierung von SegWit - 4,5 Monate früher als bei der Bitcoin Blockchain - und die Kompatibilität mit dem Lightning Network Bitcore zu einem Zahlungsmittel, das ideal auf die Bedürfnisse von Privatpersonen und Unternehmen von morgen ausgerichtet ist.
 
-### 3.2.1 Reibungslosen Schwierigkeitsanpassung durch diff64_15 Algorithmus
+
+### 3.2.1 Reibungslose Schwierigkeitsanpassung durch diff64_15 Algorithmus
+TODO
 In Kryptowährungen, die auf Proof-of-Work basieren, dienen Schwierigkeiten beim Retargeting, dh das Anpassen der Schwierigkeit, mit denen Minenarbeiter den nächsten Block finden können, dazu, konsistente Blockzeiten zu gewährleisten. Ohne Schwierigkeiten beim Retargeting würden sich die Blockzeiten mit zunehmender Anzahl der auf der Blockchain aktiven Miner zu einem bestimmten Zeitpunkt verringern, da dies die Wahrscheinlichkeit erhöhen würde, dass der richtige Hashwert von einem dieser vielen Miner entdeckt wird.
 
 Daher wird beim Schwierigkeits-Retargeting der Schwierigkeitsgrad beim Erkennen des nächsten Blocks erhöht, wenn viele Miner auf dem Protokoll aktiv sind, und nimmt ab, wenn weniger Miner aktiv sind.
@@ -61,6 +64,7 @@ In Core Shield 64_15 wird die Blockschwierigkeit alle 64 Blöcke neu eingestellt
 Der schwierige Retargeting-Algorithmus von Bitcore ist daher nicht nur effizienter, sondern führt zu besser vorhersagbaren Blockierungszeiten und sichert das Netzwerk zusätzlich gegen Angriffe mit doppeltem Aufwand, die in Zeiten mit unverhältnismäßig geringen Hash-Problemen wahrscheinlich erfolgreich sind.
 
 ![Abbildung 3: Die Mining Schwierigkeitsanpassung bei Bitcore (Beispieldaten vom Mai 2018).](images/BitcoreWhitepaperImg05.png)
+
 
 ### 3.2.2 Kürzere Blockzeiten
 Das Bitcore-Protokoll ist auf eine Blockzeit von 2,5 Minuten ausgelegt - ein Viertel der 10-Minuten-Blockzeiten von Bitcoin.
@@ -79,6 +83,7 @@ Vitalik Buterin, Gründer von Ethereum, argumentiert, dass kürzere Blockzeiten 
 
 Angesichts all dieser Überlegungen hat sich Bitcore entschieden, die Privilegien und Vorteile, die mit einer geringfügigen Reduzierung der Gesamtblockzeit auf 2,5 Minuten einhergehen, voll zu nutzen.
 
+
 ### 3.2.3 Größere Blockgröße
 Die Blöcke von Bitcore haben derzeit eine Größe von 10 MB, ohne auf den zusätzlichen Raum einzukalkulieren, der durch das „Wiegen“ der Daten aufgrund von SegWit entsteht, wodurch die Größe auf 20 MB erhöht wird. Daher kann Bitcore 80 MB in Blöcken (davon 40 MB aufgrund von SegWit) in demselben Intervall erzeugen, in dem Bitcoin 2 MB (1 MB ohne SegWit) erzeugt.
 
@@ -91,6 +96,7 @@ Um eine breite Akzeptanz von Krypto-Zahlungsmethoden zu ermöglichen, muss die S
 Die Bitcore-Community hat sich dafür entschieden, die Blockgröße auf 10 MB zu erhöhen. Bei einem Durchschnitt von 224 Bytes / TX kann die BTX-Kette ungefähr 310 TX / Sekunde verarbeiten. Mit SegWit wird die potenzielle maximale Blockgröße sogar auf 20 MB erhöht. Die BTX-Kette kann unter optimalen Bedingungen 550 TX / Sekunde verarbeiten, auch wenn dabei nicht berücksichtigt wird, dass einige Transaktionen außerhalb des Netzwerks geroutet werden können Blitz-Netzwerk.
 
 Bitcore hat seine Fähigkeit unter Beweis gestellt, eine große Anzahl von Transaktionen in kurzer Zeit abzuwickeln, als am 2. November 2017 nach Aktivierung der Hybridgabel innerhalb von wenigen Tagen etwa 5 Millionen Transaktionen verarbeitet wurden (siehe Abschnitt 2.2 der vorliegenden Veröffentlichung).
+
 
 ### 3.2.4 Aktivierung von Segregated Witness (SegWit)
 Segregated Witness (SegWit) wurde im April 2017 auf der Bitcore Blockchain mit Block #3, 000 – ein halbes Jahr früher als in Bitcoin aktiviert. Vor der Aktivierung begannen bitcore Timetravel10 Miners erfolgreich mit der Erstellung von segwit-konformen Blöcken.
@@ -116,6 +122,7 @@ Erhöhte Skalierbarkeit als Nebeneffekt von Sofortzahlungen
 Niedrigere Kosten, so dass diese Lösung auch für Mikrozahlungen interessant ist
 Cross-Chain-Atom-Swaps mit heterogenen Block-Konsensus-Regeln ermöglichen
 Bitcore ist vollständig mit dem Lightning-Netzwerk kompatibel und kann daher sofortige Zahlungen sowie Mikropayments unterstützen.
+
 
 ### 3.2.6 Geringe Gebühren
 Mit einer durchschnittlichen Gebühr von 0,0003 USD pro Kilobyte und einer durchschnittlichen Gebühr von 0,0002 USD pro Kilobyte sind die Gebühren von Bitcore deutlich niedriger als die Gebühren anderer wichtiger Kryptowährungen (siehe auch Abbildung 4). Da 1 Kilobyte ungefähr 3 Transaktionen entspricht, entspricht dies einer Gebühr von etwa 0,0001 USD oder 0,01 US-Cent pro Transaktion.
