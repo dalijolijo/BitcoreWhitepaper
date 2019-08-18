@@ -49,7 +49,7 @@ Ein weiterer entscheidender Unterschied von Bitcore gegenüber Bitcoin sind die 
 Schließlich machen die Aktivierung von SegWit - 4,5 Monate früher als bei der Bitcoin Blockchain - und die Kompatibilität mit dem Lightning Network Bitcore zu einem Zahlungsmittel, das ideal auf die Bedürfnisse von Privatpersonen und Unternehmen von morgen ausgerichtet ist.
 
 
-### 3.2.1 Reibungslose Schwierigkeitsanpassung durch diff64_15 Algorithmus
+### 3.2.1 Reibungslose Schwierigkeitsanpassung durch den diff64_15 Algorithmus
 Bei auf dem Proof-of-Work-Algorithmus basieren Kryptowährungen dient die Schwierigkeitsanpassung, mit der die Miner den nächsten Block finden können, dazu konsistente Blockzeiten zu gewährleisten. Ohne Schwierigkeitsanpassung würden die Blockzeiten mit zunehmender Anzahl von Minern abnehmen, da dies die Wahrscheinlichkeit erhöhen würde, dass der richtige Hashing-Wert von einem der vielen Miner gefunden wird.
 Daher wird bei der Schwierigkeitsanpassung der Schwierigkeitsgrad der Entdeckung des nächsten Blocks erhöht, wenn viele Miner auf der Blockchain aktiv sind, und verringert, wenn weniger Miner aktiv sind.
 
