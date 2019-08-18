@@ -100,16 +100,6 @@ Bitcore hat sich als sehr leistungsfähig erwiesen eine große Anzahl von Transa
 Segregated Witness (SegWit) wurde im April 2017 auf der Bitcore Blockchain mit Block #3.000 aktiviert - ein halbes Jahr früher als bei Bitcoin. Vor der Aktivierung erstellten die Bitcore Timetravel10 Miner erfolgreich SegWit-konformen Blöcken.
 
 Segwit bietet mehrere unmittelbare Vorteile:
-
-* Eliminierung unerwünschter Transaktionsveränderungen
-* Kapazitätssteigerung
-* Gewichtung der Daten in Abhängigkeit der Bitcore-Node Performance
-* Signature Wertabdeckung
-* Lineare Skalierung von sighash Operationen
-* Erhöhte Sicherheit für Multisig
-* Effizientere Bitcore-Node Sicherheit
-* Skript Versionierung
-
 * Eliminierung der unerwünschten Verformbarkeit von Transaktionen
 * Kapazitätssteigerung
 * Gewichtung der Daten basierend darauf, wie sich diese auf die Leistung der Netzwerk-Knoten auswirken
@@ -121,25 +111,23 @@ Segwit bietet mehrere unmittelbare Vorteile:
 
 
 ### 3.2.5 Lightning Network Kompatibilität
-TODO
-Das Lightning-Netzwerk (ix) ist ein Übertragungsnetzwerk, das auf einer Ebene oberhalb der Bitcore-Blockchain arbeitet. Durch die Verwendung intelligenter Vertragsfunktionalität werden sofortige Zahlungen über ein Teilnehmernetzwerk ermöglicht, sodass keine Wartezeiten auf die Bestätigung erforderlich sind, wie in den vorangegangenen Abschnitten dieses Whitepapers beschrieben.
+Das Lightning Network (ix) ist ein Überweisungsnetzwerk, das auf einer Schicht oberhalb der Bitcore-Blockchain arbeitet. Durch die Verwendung der Smart Contract-Funktionalität ermöglicht es Sofortzahlungen in einem Netzwerk von Teilnehmern, ohne dass auf die Bestätigung gewartet werden muss, wie in den vorherigen Abschnitten dieses Whitepapers beschrieben.
 
-Neben den Sofortzahlungen bietet das Blitznetzwerk weitere Vorteile:
-
-Erhöhte Skalierbarkeit als Nebeneffekt von Sofortzahlungen
-Niedrigere Kosten, so dass diese Lösung auch für Mikrozahlungen interessant ist
-Cross-Chain-Atom-Swaps mit heterogenen Block-Konsensus-Regeln ermöglichen
-Bitcore ist vollständig mit dem Lightning-Netzwerk kompatibel und kann daher sofortige Zahlungen sowie Mikropayments unterstützen.
+Neben der sofortigen Zahlungsabwicklung bietet das Lightning Network weitere Vorteile:
+* Erhöhte Skalierbarkeit als Nebeneffekt von Sofortzahlungen
+* Geringere Kosten, was diese Lösung auch für Kleinstbeträge (Micropayments) attraktiv macht.
+* Ermöglicht blockchainübergreifende atomare Swaps außerhalb der Blockchain mit unterschiedlichen Konsensregeln der Blockchain.
+* Bitcore ist voll kompatibel mit dem Lightning Network und unterstützt daher sowohl Sofortzahlungen als auch Micropayments.
 
 
 ### 3.2.6 Geringe Gebühren
-Mit einer durchschnittlichen Gebühr von 0,0003 USD pro Kilobyte und einer durchschnittlichen Gebühr von 0,0002 USD pro Kilobyte sind die Gebühren von Bitcore deutlich niedriger als die Gebühren anderer wichtiger Kryptowährungen (siehe auch Abbildung 4). Da 1 Kilobyte ungefähr 3 Transaktionen entspricht, entspricht dies einer Gebühr von etwa 0,0001 USD oder 0,01 US-Cent pro Transaktion.
+Mit einer durchschnittlichen Gebühr von $0,0003 USD pro Kilobyte und einer medianen Gebühr von $0,0002 USD pro Kilobyte sind die Gebühren von Bitcore deutlich niedriger als die Gebühren anderer wichtiger Kryptowährungen (siehe auch Abbildung 4). Da 1 Kilobyte etwa 3 Transaktionen gleichkommt, entspricht dies einer Gebühr von etwa 0,0001 USD oder 0,01 US-Cent pro Transaktion.
 
-Diese günstige Gebührenstruktur trägt weiter zur Eignung von Bitcore für alltägliche Transaktionen und sogar für Mikrozahlungen bei.
+Diese günstige Gebührenstruktur trägt zusätzlich dazu bei, dass Bitcore für alltägliche Transaktionen und auch für Kleinstbeträge (Micropayments) geeignet ist.
 
 ![Abbildung 4: Vergleichsdiagramm, Bitcore im Vergleich zu anderen Kryptowährungen.](images/BitcoreWhitepaperImg04.png)
 
-Für Bitcore ist eine Mindestgebühr von 0,0001 BTX pro Kilobyte erforderlich. Die empfohlene Gebühr zur Unterstützung von Denkern beträgt derzeit (Juli 2018) etwa 0,001 BTX pro Kilobyte. Da Bitcore-Blöcke derzeit nicht voll sind, bietet die Transaktionsgeschwindigkeit keinen Vorteil, wenn eine höhere Gebühr bezahlt wird. Dies kann jedoch in Zukunft der Fall sein, da die Belastung des Bitcore-Netzwerks zunimmt.
+Bitcore hat eine erforderliche Mindestgebühr von 0,0001 BTX pro Kilobyte; die empfohlene Gebühr, die zur Unterstützung von Minern bestimmt ist, beträgt derzeit (Juli 2018) etwa 0,001 BTX pro Kilobyte. Da Bitcore-Blöcke derzeit nicht voll sind, gibt es keinen Vorteil in der Transaktionsgeschwindigkeit, der durch die Zahlung einer höheren Gebühr erreicht werden kann; dies kann jedoch in Zukunft der Fall sein, wenn die Auslastung des Bitcore-Netzwerks steigt.
 
 ---
 
