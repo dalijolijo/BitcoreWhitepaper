@@ -96,22 +96,22 @@ Bitcore has proven its capability to handle large numbers of transactions in a s
 Segregated Witness (SegWit) was activated on the Bitcore blockchain in April, 2017, with block #3,000 – half a year earlier than in Bitcoin. Prior to activation, Bitcore Timetravel10 miners successfully began the creation of SegWit compliant blocks.
 
 Segwit provides several immediate benefits:
-- Elimination of unwanted transaction malleability
-- Capacity increase
-- Weighting of data based on how it affects node performance
-- Signature covering of value
-- Linear scaling of sighash operations
-- Increased security for multisig
-- More efficient almost-full-node security
-- Script versioning
+* Elimination of unwanted transaction malleability
+* Capacity increase
+* Weighting of data based on how it affects node performance
+* Signature covering of value
+* Linear scaling of sighash operations
+* Increased security for multisig
+* More efficient almost-full-node security
+* Script versioning
 
 ### 3.2.5 Lightning Network Compatibility
 The Lightning Network (ix) is a transfer network operating at a layer above the Bitcore blockchain. By using smart contract functionality, it enables instant payments across a network of participants, obviating the need to wait for confirmation, as described in previous sections of this whitepaper.
 
 In addition to instant payments, the lightning network confers further advantages:
-- Increased scalability as a side effect of instant payments
-- Lower costs, making this solution attractive for micropayments as well
-- Enabling cross-chain atomic swaps off-chain with heterogeneous blockchain consensus rules
+* Increased scalability as a side effect of instant payments
+* Lower costs, making this solution attractive for micropayments as well
+* Enabling cross-chain atomic swaps off-chain with heterogeneous blockchain consensus rules
 
 Bitcore is fully compatible with the Lightning Network and therefore able to support instant payments as well as micropayments.
 
@@ -122,7 +122,7 @@ This favorable fee structure further contributes to Bitcore’s suitability for 
 
 ![Figure 4: Comparison chart, Bitcore against other cryptocurrencies.](images/BitcoreWhitepaperImg04.png)
 
-Bitcore has a required minimum fee of 0.0001 BTX per kilobyte; the recommended fee, intended to support minders, is currently (July 2018) about 0.001 BTX per kilobyte. As Bitcore blocks are currently not full, there is no advantage in transaction speed to be gained by paying a higher fee; however, this may be the case in the future as the load of the Bitcore network increases.
+Bitcore has a required minimum fee of 0.0001 BTX per kilobyte; the recommended fee, intended to support miners, is currently (July 2018) about 0.001 BTX per kilobyte. As Bitcore blocks are currently not full, there is no advantage in transaction speed to be gained by paying a higher fee; however, this may be the case in the future as the load of the Bitcore network increases.
 
 ---
 
