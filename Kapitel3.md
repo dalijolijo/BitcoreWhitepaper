@@ -111,13 +111,13 @@ Segwit bietet mehrere unmittelbare Vorteile:
 
 
 ### 3.2.5 Lightning Network Kompatibilität
-Das Lightning Network (ix) ist ein Überweisungsnetzwerk, das auf einer Schicht oberhalb der Bitcore-Blockchain arbeitet. Durch die Verwendung der Smart Contract-Funktionalität ermöglicht es Sofortzahlungen in einem Netzwerk von Teilnehmern, ohne dass auf die Bestätigung gewartet werden muss, wie in den vorherigen Abschnitten dieses Whitepapers beschrieben.
+Das Lightning Network (ix) ist ein Überweisungsnetzwerk, das auf einer Schicht oberhalb der Bitcore-Blockchain arbeitet. Durch die Verwendung der Smart Contract-Funktionalität ermöglicht es Instant-Zahlungen in einem Netzwerk von Teilnehmern, ohne dass auf die Bestätigung gewartet werden muss, wie in den vorherigen Abschnitten dieses Whitepapers beschrieben.
 
-Neben der sofortigen Zahlungsabwicklung bietet das Lightning Network weitere Vorteile:
-* Erhöhte Skalierbarkeit als Nebeneffekt von Sofortzahlungen
+Neben Instant-Zahlungen bietet das Lightning Network weitere Vorteile:
+* Erhöhte Skalierbarkeit als Nebeneffekt von Instant-Zahlungen
 * Geringere Kosten, was diese Lösung auch für Kleinstbeträge (Micropayments) attraktiv macht.
 * Ermöglicht blockchainübergreifende atomare Swaps außerhalb der Blockchain mit unterschiedlichen Konsensregeln der Blockchain.
-* Bitcore ist voll kompatibel mit dem Lightning Network und unterstützt daher sowohl Sofortzahlungen als auch Micropayments.
+* Bitcore ist voll kompatibel mit dem Lightning Network und unterstützt daher sowohl Instant-Zahlungen als auch Micropayments.
 
 
 ### 3.2.6 Geringe Gebühren
